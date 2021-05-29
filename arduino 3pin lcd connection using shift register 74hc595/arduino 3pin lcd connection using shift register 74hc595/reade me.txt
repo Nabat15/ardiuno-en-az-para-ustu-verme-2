@@ -1,0 +1,4 @@
+open library folder and add library 3pinlcd and wire into own arduino ide
+
+
+subscribe neuro tech 
